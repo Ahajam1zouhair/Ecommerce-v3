@@ -1,0 +1,20 @@
+.Body {
+
+  background: #005ade;
+}
+.RemesCardButton {
+  background: #ff9017;
+  border-radius: 16px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.Title {
+  color: rgb(255, 249, 249);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 32px;
+  word-wrap: break-word;
+  padding: 20px;
+}
